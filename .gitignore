@@ -3,3 +3,11 @@
 */dataset/*
 dataset/*
 */downloads/*
+*/pretrained-model/*
+*/images/*.jpg
+*/out/*.jpg
+neural_network/neural_style/.DS_Store
+neural_network/neural_style/images/*
+neural_network/neural_style/out/*
+neural_network/neural_style/pretrained-model/*
+*.pyc
