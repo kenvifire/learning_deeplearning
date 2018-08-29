@@ -11,3 +11,5 @@ neural_network/neural_style/images/*
 neural_network/neural_style/out/*
 neural_network/neural_style/pretrained-model/*
 *.pyc
+intro_to_self_driving_cars/behavioural_cloning/track/
+intro_to_self_driving_cars/traffic_sign_classification/german-traffic-signs/
